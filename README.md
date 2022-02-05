@@ -8,6 +8,10 @@ open the bat file in a text editor
 
 set the var gamelocation to the location you want  e.g D:\R5R
 
+
+![config](https://user-images.githubusercontent.com/98644082/152661955-c50df7e3-b59f-4454-84ae-bbaa94f9879f.PNG)
+
+
 create a folder in that location called game_files
 
 ![game_files](https://user-images.githubusercontent.com/98644082/152661642-04ac3735-43e4-47e6-a842-f849e7291382.png)
