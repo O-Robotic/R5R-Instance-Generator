@@ -4,6 +4,8 @@ Makes small instances of r5r with symlinks
 
 To use this tool
 
+open the bat file in a text editor
+
 set the var gamelocation to the location you want  e.g D:\R5R
 
 create a folder in that location called game_files
@@ -30,3 +32,4 @@ and finally in detours, copy the files from the 1.6beta folder
 
 after that run the bat file as ADMIN (needed for mklink to work correctly)
 and follow the instructions
+
