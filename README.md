@@ -1,4 +1,4 @@
-# R5R-Instance-Genertor
+# R5R-Instance-Generator
 Makes small instances of r5r with symlinks
 
 
