@@ -1,6 +1,6 @@
 @echo off
 
-echo R5R Instance Maker by Robotic#2623
+echo R5R Instance Generator by Robotic#2623
 
 echo:
 
